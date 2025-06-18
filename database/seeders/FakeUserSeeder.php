@@ -5,7 +5,7 @@ namespace Database\Seeders;
 use App\Domain\User\Models\User;
 use Illuminate\Database\Seeder;
 
-class AdminSeeder extends Seeder
+class FakeUserSeeder extends Seeder
 {
     public function run()
     {
