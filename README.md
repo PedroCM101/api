@@ -47,5 +47,3 @@ La api estará disponible en: http://localhost:8000
 ```bash
 php artisan test
 ```
-
-La api estará disponible en: http://localhost:8000
